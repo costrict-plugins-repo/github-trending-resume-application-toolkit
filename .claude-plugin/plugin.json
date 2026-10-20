@@ -1,0 +1,9 @@
+{
+  "name": "job-application-toolkit",
+  "version": "0.1.0",
+  "description": "Automated job application pipeline producing keyword-optimised, professionally formatted resumes and cover letters from a single instructions file",
+  "author": {
+    "name": "Michael Zajer"
+  },
+  "keywords": ["job-application", "resume", "cover-letter", "keyword-optimisation", "docx"]
+}
